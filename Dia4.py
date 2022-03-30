@@ -1,4 +1,5 @@
 #4. Rock Paper Scissors against the Computer
+#28-03-2022
 import random
 
 mano = ("Piedra", "Papel","Tijeras")
